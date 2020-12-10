@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BonusFlags",
+            "request": "launch",
+            "mainClass": "BonusFlags",
+            "vmArgs": "--module-path C:\\PROGRA~1\\Java\\javafx-sdk-11.0.2\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "Programming Assignment 3_bd24be15"
+        },
+        {
+            "type": "java",
+            "name": "CarDealer",
+            "request": "launch",
+            "mainClass": "CarDealer",
+            "vmArgs": "--module-path C:\\PROGRA~1\\Java\\javafx-sdk-11.0.2\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "Programming Assignment 3_bd24be15"
+        },
+        {
+            "type": "java",
+            "name": "Library",
+            "request": "launch",
+            "mainClass": "Library",
+            "vmArgs": "--module-path C:\\PROGRA~1\\Java\\javafx-sdk-11.0.2\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "Programming Assignment 3_bd24be15"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "vmArgs": "--module-path C:\\PROGRA~1\\Java\\javafx-sdk-11.0.2\\lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "Programming Assignment 3_bd24be15"
+        }
+    ]
+}
